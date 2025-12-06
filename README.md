@@ -1,2 +1,2 @@
 # xxx
-[bbb](../fork)
+[bbb](../../fork)
